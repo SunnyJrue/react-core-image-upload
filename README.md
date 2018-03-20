@@ -106,7 +106,7 @@ cd __sites_ && npm run start
       <td>Crop image option</td>
     </tr>
     <tr>
-      <td>cropRatio</td>
+      <td>ratio</td>
       <td align="left">String</td>
       <td>'1:1'</td>
       <td>The cropped image shape(set 'auto' not limit the crop shape)</td>
